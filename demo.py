@@ -1,6 +1,6 @@
 # This program adds two numbers
 
-num1 = 18
+num1 =99
 num2 = 9
 sum = num1 - num2
 
