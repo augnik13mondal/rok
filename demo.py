@@ -1,7 +1,8 @@
 # This program adds two numbers
 
-num1 =15
+num1 =45
 num2 = 9
+num3 = 5
 sum = num1 - num2
 
 # Display the sum
