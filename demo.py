@@ -1,4 +1,4 @@
-# this progran is for adding two numbers 
+# this progran is for add two number
 num1 =45
 num2 = 9
 num3 = 5
