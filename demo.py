@@ -1,5 +1,4 @@
-# This program adds two numbers
-
+# this progran is for adding two numbers 
 num1 =45
 num2 = 9
 num3 = 5
