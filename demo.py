@@ -1,5 +1,5 @@
 # this progran is for add two number
-num1 =45
+num1 =45+12
 num2 = 9
 num3 = 5
 sum = num1 - num2
